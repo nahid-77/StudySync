@@ -14,15 +14,15 @@ StudySync is a frontend-only project that demonstrates how a complete landing pa
 
 ## 🚀 Features
 
-✅ Responsive Header with Navigation & Mobile Menu
-✅ Hero Section with Call-To-Action Buttons
-✅ Company Brand Showcase
-✅ Feature Grid with Icons and Descriptions
-✅ Testimonials with Avatars
-✅ Newsletter Subscription Form
-✅ Multi-column Footer with Links and Social Icons
-✅ Clean and structured HTML layout
-✅ External CSS for styling and responsiveness
+✅ Responsive Header with Navigation & Mobile Menu  
+✅ Hero Section with Call-To-Action Buttons  
+✅ Company Brand Showcase  
+✅ Feature Grid with Icons and Descriptions  
+✅ Testimonials with Avatars  
+✅ Newsletter Subscription Form  
+✅ Multi-column Footer with Links and Social Icons  
+✅ Clean and structured HTML layout  
+✅ External CSS for styling and responsiveness  
 ✅ Optimized Images with Lazy Loading
 
 ---
