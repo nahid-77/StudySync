@@ -77,7 +77,7 @@ Open index.html in your browser
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
 <img width="1324" height="602" alt="image" src="https://github.com/user-attachments/assets/81ef6eb5-027a-406b-8bc8-9aed76c4dc00" />
 <img width="1323" height="607" alt="image" src="https://github.com/user-attachments/assets/53e55e12-add8-4adc-b716-ffc04edb21cb" />
