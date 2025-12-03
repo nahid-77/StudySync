@@ -151,8 +151,8 @@ This project is open-source and free to use for education and personal purposes.
 
 ## 👤 Author
 
-**Nahid Hosen Tuhin**
-GitHub: [https://github.com/nahid-77](https://github.com/nahid-77)
-LinkedIn: [https://www.linkedin.com/in/md-nahid-hosen-aaa5b7239/](https://www.linkedin.com/in/md-nahid-hosen-aaa5b7239/)
+**Nahid Hosen Tuhin**  
+GitHub: https://github.com/nahid-77  
+LinkedIn: https://www.linkedin.com/in/md-nahid-hosen-aaa5b7239/
 
 ---
